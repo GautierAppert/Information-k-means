@@ -8,4 +8,6 @@ as a usual k-means procedure using the Kullback divergence as a distortion measu
 However, the minimization is performed with respect to the first argument of the Kullback divergence, 
 which leads to very different centroid computed as geometric means.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
